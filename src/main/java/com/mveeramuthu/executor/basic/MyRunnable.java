@@ -1,4 +1,4 @@
-package com.mveeramuthu;
+package com.mveeramuthu.executor.basic;
 
 class MyRunnable implements Runnable {
     private final String task;
